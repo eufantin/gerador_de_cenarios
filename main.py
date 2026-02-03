@@ -24,7 +24,7 @@ riscos = [
 ]
 
 estilos = [
-    "RPG"
+    "RPG",
     "Cyberpunk",
     "Militar"
 ]
