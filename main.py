@@ -44,3 +44,7 @@ def gerar_missao():
     print(f"Estilo: {estilo}")
     print("---------------------")
     print("Boa sorte, agente!")
+
+##execução do gerador de missões.
+if __name__ == "__main__":
+    gerar_missao()
